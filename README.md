@@ -1,7 +1,7 @@
 # CN_Link
 ### 一键登录校园网源码讲解
 
-![image-20210121105857023](C:\Users\Curiosity\Desktop\temp\一键登录校园网源码讲解.assets\image-20210121105857023.png)
+![](https://i.loli.net/2021/01/23/tWG7825gKdQmyfX.png)
 
 #### 为什么要做这个程序
 
