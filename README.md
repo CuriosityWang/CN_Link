@@ -26,7 +26,7 @@ data = {"id": 2000, "strAccount": 1548465556, "strPassword": 123123}
 re.post(url, data, headers=header)
 ```
 
-#### 还需要完善的功能
+#### 完善的功能
 
 用户的账号密码需要加密保存在本地,因此需要使用一定的加密解密算法
 
